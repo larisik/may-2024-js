@@ -165,7 +165,7 @@ if(x) {
 
 let time = 10;
 
-if (time<15){
+if (time > 0 && time <= 15){
     console.log('first quarter of an hour')
 } else if (time>=15 && time<30) {
     console.log('second quarter of an hour')
@@ -181,7 +181,7 @@ if (time<15){
 
 let day = 5;
 
-if (day<10){
+if (day > 0 && day <= 10){
     console.log('first decade of the month')
 } else if (day>=10 && day<20) {
     console.log('second decade of the month')
