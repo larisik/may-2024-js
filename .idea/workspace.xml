@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5f7812-fb30-4651-b4ca-ce7d7ba43f28" name="Changes" comment="some corrections in hw-2">
+    <list default="true" id="cd5f7812-fb30-4651-b4ca-ce7d7ba43f28" name="Changes" comment="add hw-3">
+      <change afterPath="$PROJECT_DIR$/Homework/HW-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW-4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/HW-5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/HW-3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/HW-3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\may-2024-js\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +72,8 @@
       <workItem from="1723136677128" duration="718000" />
       <workItem from="1723370156865" duration="2047000" />
       <workItem from="1723908746107" duration="6735000" />
-      <workItem from="1724002316311" duration="3000000" />
+      <workItem from="1724002316311" duration="11830000" />
+      <workItem from="1724246172557" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="add hw-1">
       <option name="closed" value="true" />
@@ -90,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724002601508</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add hw-3">
+      <option name="closed" value="true" />
+      <created>1724005482505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724005482505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +117,7 @@
     <MESSAGE value="add hw-1" />
     <MESSAGE value="add hw-2" />
     <MESSAGE value="some corrections in hw-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="some corrections in hw-2" />
+    <MESSAGE value="add hw-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw-3" />
   </component>
 </project>
